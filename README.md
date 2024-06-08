@@ -1,5 +1,5 @@
 # Language_translater
-Here's a README file for your GitHub project that details the setup and usage of IBM Watson APIs for speech translation:
+Here's a README file for the setup and usage of IBM Watson APIs for speech translation:
 
 ---
 
@@ -99,10 +99,6 @@ print("Audio content written to 'translated_audio.mp3'")
 ```bash
 python speech_translation.py
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
