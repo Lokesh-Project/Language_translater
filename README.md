@@ -1,4 +1,4 @@
-# Language_translater
+# Language_translator
 Here's a README file for the setup and usage of IBM Watson APIs for speech translation:
 
 ---
